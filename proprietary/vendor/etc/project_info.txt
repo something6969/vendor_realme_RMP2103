@@ -1,0 +1,3 @@
+/proc/oppoVersion/prjVersion,/proc/oppoVersion/operatorName,project
+21697,151,21697
+21697,152,21698
